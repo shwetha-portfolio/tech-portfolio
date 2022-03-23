@@ -1,6 +1,6 @@
 ## Hi there! This repo contains my technical portfolio. 
 
-To access the website, click over [here]()
+To access the website, click over [here](https://shwetha-portfolio.github.io/tech-portfolio/)
 
 The template of my website was adapted from HTML5 UP and its related information can be found below.
 
